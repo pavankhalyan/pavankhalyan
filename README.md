@@ -5,8 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=pavankhalyan&label=Profile%20views&color=0e75b6&style=flat" alt="pavankhalyan" /> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://your-gif-url.com/gif-image.gif" />
-
 - 🌱 I’m currently learning **all**
 
 - 💬 Ask me about **Projects, Frontend development**
