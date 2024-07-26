@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **pavankhalyan2004@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankhalyan&" alt="pavankhalyan" /></p>
+
