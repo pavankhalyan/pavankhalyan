@@ -9,6 +9,5 @@
 
 - 💬 Ask me about **Projects, Frontend development**
 
-- 📫 How to reach me **pavankhalyan2004@gmail.com**
 
 
