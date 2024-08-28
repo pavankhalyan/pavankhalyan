@@ -6,8 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **all**
- 
-- 💬 Ask me about **Projects, Frontend development**
+
 
 
 
