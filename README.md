@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=pavankhalyan&label=Profile%20views&color=0e75b6&style=flat" alt="pavankhalyan" /> 
 </p>
 
-- 🌱 I’m currently learning **all**
+-  I’m currently learning **all**
 
 
 
